@@ -1,0 +1,1 @@
+let beShown = document.querySelector('body');
